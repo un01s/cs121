@@ -6,3 +6,6 @@ Follow the schedule of [CS61A 2024](https://insideempire.github.io/CS61A-Website
 
 Even [without the autograder OK.py](https://okpy.org/), you could follow [the CS61A textbook](https://www.composingprograms.com/) and complete all code from slides, discussions, labs, homework, and projects.  
 
+Here is [the MIT SICP textbook](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html).
+
+
