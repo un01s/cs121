@@ -10,4 +10,5 @@ Even [without the autograder OK.py](https://okpy.org/), you could follow [the CS
 
 Here is [the MIT SICP textbook](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html).
 
+* if CS61A is difficult, try [CS10](http://cs10.org/) first, never give up.
 
