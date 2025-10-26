@@ -1,2 +1,8 @@
+# rust
 /target
+
+# python
 */__pycache__
+
+# java
+*.class
